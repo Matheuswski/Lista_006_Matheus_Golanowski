@@ -5,3 +5,4 @@
 # Exiba a posição desse nome na lista. Pergunte ao usuário se ele ainda deseja que essa pessoa venha à festa. 
 # Se ele responder "não", exclua essa entrada da lista e exiba a lista novamente.
 print("Matheus Golanowski ")
+nome = 
